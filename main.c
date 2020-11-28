@@ -6,5 +6,9 @@ int main() {
 
     printf("B");
 
+    printf("C");
+
+    printf("D");
+
     return 0;
 }
