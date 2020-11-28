@@ -6,5 +6,7 @@ int main() {
 
     printf("B");
 
+    printf("E");
+
     return 0;
 }
